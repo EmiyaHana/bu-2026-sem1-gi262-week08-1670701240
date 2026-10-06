@@ -59,7 +59,6 @@ namespace Assignment
         private int SumOfNumbers(int[] numbers, int index)
         {
             // base case
-            
             // recursive case
             return -1;
         }
